@@ -1,5 +1,4 @@
 # Google Colab에서 시작
-0. GitHub repository 클론 
 1. https://colab.research.google.com/
 2. 새 노트
 3. 아래 코드 실행 
