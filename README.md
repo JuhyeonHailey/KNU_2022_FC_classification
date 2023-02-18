@@ -13,8 +13,8 @@
 ```
 
 4. 파일 – 드라이브에서 찾기 – 내드라이브/KNU_2023_FC_classification/01_FC_calculation.ipynb  
-
   
+* 오류가 생길 경우 Kernel restart 후 다시 시도해보세요! 
   
 
 # 코드 순서
